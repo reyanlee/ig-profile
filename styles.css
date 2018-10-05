@@ -1,0 +1,54 @@
+#container {
+	width: 1080px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: white;
+	border-style: 3px, #DDDDDD;
+}
+
+#top-bar {
+	height: 145px;
+	background-image: url("https://github.com/reyanlee/ig-profile/blob/master/images/Top-Bar.png?raw=true");
+}
+
+#username {
+	text-align: center;
+	font-family: freight-sans-compressed-pro, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+}
+
+#follower-count {
+	height: 355px;
+	background-image: url("https://github.com/reyanlee/ig-profile/blob/master/images/Follower-Count.png?raw=true");
+}
+
+#profile-picture {
+	border-radius: 50%;
+	height: 255px;
+	width: 255px;
+	margin-top: 54px;
+	margin-left: 59px;
+}
+
+#photo-bar {
+	height: 140px;
+	background-image: url("https://github.com/reyanlee/ig-profile/blob/master/images/Photo-Bar.png?raw=true");
+}
+
+.ig-image {
+	display: inline;
+	width: 357px;
+	height: 357px;
+}
+
+#bottom-bar {
+	height: 135px;
+	background-image: url("https://github.com/reyanlee/ig-profile/blob/master/images/Bottom-Bar.png?raw=true");
+}
+
+p {
+	font-size: 25px;
+	font-family: freight-sans-compressed-pro, sans-serif;
+	font-style: normal;
+}
